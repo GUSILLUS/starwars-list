@@ -1,4 +1,3 @@
-// src/components/HeroDetails.tsx
 import { useState, useEffect } from "react";
 import { heroesApi } from "@/shared/services";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
