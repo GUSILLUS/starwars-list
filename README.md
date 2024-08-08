@@ -28,6 +28,13 @@ StarNavi Heroes is a React application that displays a list of characters and th
   npm start
   ```
 
+## Troubleshooting on macOS
+
+If you encounter any issues on macOS, you may need to install some additional dependencies. You can do this using Homebrew:
+  ```sh
+  brew install pkg-config cairo pango libpng jpeg giflib librsvg
+  ```
+
 ## Usage
 
 To use the StarNavi Heroes application, follow these steps:
