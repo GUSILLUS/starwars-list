@@ -4,11 +4,16 @@ StarNavi Heroes is a React application that displays a list of characters and th
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+
+## Demo
+
+Experience the live demo of our application [here](https://starwars-list.vercel.app/#/home)
 
 ## Installation
 
